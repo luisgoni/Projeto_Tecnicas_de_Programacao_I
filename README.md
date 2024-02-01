@@ -8,9 +8,6 @@ Este repositório contém o código desenvolvido no Projeto do modulo de Técnic
 <br><br>
 
 
-################################## ATUALIZAR ###########################
-
-
 Unidade: Lógica de Programação II (PY) <br>
 Professor: [Victor Brito](https://www.linkedin.com/in/victorcbrito/)
 
